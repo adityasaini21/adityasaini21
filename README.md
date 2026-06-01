@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Aditya Saini
-**A passionate Java Full Stack Developer || Kafka Admin from India**
+**A passionate Full Stack Developer || from India**
 
 Email Me 👉 ✉️ **adityasaini7408@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
