@@ -16,7 +16,7 @@ Email Me 👉 ✉️ **adityasaini7408@gmail.com** For Collaboration/Project or 
 ![](https://github-profile-trophy.vercel.app/?username=adityasaini21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
   
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/aditya-saini/12430a255](https://www.linkedin.com/in/aditya-saini-12430a255/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasaini7408@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-saini-12430a255/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasaini7408@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
